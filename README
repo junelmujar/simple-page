@@ -1,4 +1,4 @@
-###SimplePage.js 
+## SimplePage.js 
 
 *   A simple pagination plugin for paging data fetched via Ajax. No more, no less.
 *   Easy configuration, takes all the hardwork of building the 
@@ -14,7 +14,7 @@
     you result. Now you can do a grid based layout or if you
     prefer, a table/list format.
     
-###Licensing
+## Licensing
 
 * Copyright 2013 Junel L. Mujar
 * Licensed under the Apache License v2.0
